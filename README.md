@@ -9,7 +9,7 @@ ____
 То есть при шаге равном 1 "а" станет "б" и т.д.
 ____
 ![Скриншот старой прог](htеtps://user-images.githubusercontent.com/89964564/134466631-8d6de179-b3ec-4c04-bd7e-037687f05a62.png)
-![Скриншот результата](https://user-images.githubusercontent.com/89964564/137617377-41ae4994-bb7a-41d1-8e39-bf000accf19a.png)
+![Скриншот результата](https://user-images.githubusercontent.com/89964564/137617446-0d33b989-b359-4fef-8184-79ad50f4caa5.png)
 
 ____
 Проект разрабатывался в Microsoft Visual Studio, 
