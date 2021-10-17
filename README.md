@@ -8,7 +8,8 @@ ____
 на значение ключа. 
 То есть при шаге равном 1 "а" станет "б" и т.д.
 ____
-![Скриншот программы](https://user-images.githubusercontent.com/89964564/134466631-8d6de179-b3ec-4c04-bd7e-037687f05a62.png)
+![Скриншот старой прог](htеtps://user-images.githubusercontent.com/89964564/134466631-8d6de179-b3ec-4c04-bd7e-037687f05a62.png)
+![Скриншот результата](https://user-images.githubusercontent.com/89964564/137617377-41ae4994-bb7a-41d1-8e39-bf000accf19a.png)
 
 ____
 Проект разрабатывался в Microsoft Visual Studio, 
